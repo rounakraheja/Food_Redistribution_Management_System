@@ -11,3 +11,6 @@ users.txt
 
 # report documents - these stay out of the repository
 *.docx
+
+# notes for myself, not part of the project
+PROJECT_HANDOVER.md
