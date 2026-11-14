@@ -112,7 +112,7 @@ public:
     char getTag() { return 'R'; }
 };
 
-// ============== PART A : C DATA STRUCTURE PART ==============
+// ============== PART A : C DATA STRUCTURE PART =============
 // hash table with separate chaining, only struct and functions
 struct Node
 {
